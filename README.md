@@ -13,6 +13,5 @@ replacement strategy is needed to replace the frames as needed. Swapped out
 frames are written to a backing store file (BACKING_STORE_1.bin), and reloaded if needed later on. The
 strategy used is the Enhanced Second Chance Algorithm
 
-##Running the code
-
+## Running the code
 Compile main.c in any C compiler = preferably in a Linux environment. Execute the a.out file
