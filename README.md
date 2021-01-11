@@ -14,4 +14,4 @@ frames are written to a backing store file (BACKING_STORE_1.bin), and reloaded i
 strategy used is the Enhanced Second Chance Algorithm
 
 ## Running the code
-Compile main.c in any C compiler = preferably in a Linux environment. Execute the a.out file
+Compile main.c in any C compiler, preferably in a Linux environment. Execute the a.out file
